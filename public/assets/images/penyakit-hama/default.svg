@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none">
+  <rect width="320" height="200" rx="16" fill="#F0FDF4"/>
+  <rect x="24" y="24" width="272" height="152" rx="12" fill="#DCFCE7"/>
+  <path d="M160 70c-18 0-32 14-32 32s14 32 32 32 32-14 32-32-14-32-32-32Z" stroke="#16A34A" stroke-width="6"/>
+  <path d="M130 118h60" stroke="#16A34A" stroke-width="6" stroke-linecap="round"/>
+  <text x="160" y="168" text-anchor="middle" fill="#15803D" font-family="Arial, sans-serif" font-size="16" font-weight="700">Tanpa Gambar</text>
+</svg>
