@@ -1,9 +1,9 @@
-# Sistem Pakar Diagnosa Penyakit & Hama Padi
+# Sistem Pakar Diagnosa Penyakit & Hama Tanaman Jagung
 
 - **Nama**: Muh.Kharis Maulana Elhaq
 - **NIM**: 23215059
 - **Tempat PKL**: Dinas Pertanian Dan Ketahanan Pangan Kab. Brebes
-- **Judul Sistem**: Sistem Pakar Diagnosa Penyakit & Hama Padi
+- **Judul Sistem**: Sistem Pakar Diagnosa Penyakit & Hama Tanaman Jagung
 
 Backend admin panel berbasis **Laravel 11 + Bootstrap 5** untuk mengelola data
 sistem pakar diagnosa penyakit dan hama padi dengan metode **Certainty Factor (CF)**.
